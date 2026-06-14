@@ -14,7 +14,7 @@ Pass Tranquille permet de calculer le meilleur itinéraire entre deux points
  OS4 – Plateforme : Interface utilisateur Streamlit 
 
 ## Équipe
-- Mame Seynabou NDIAYE – Chef de projet
+- Mame Seynabou NDIAYE – Cheffe de projet
 - Mouhamed CISSE – 
 - Mouhamadou Falilou DIAGNE –
 - Yves Chadrac KATE – 
